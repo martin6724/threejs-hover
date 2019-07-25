@@ -1,0 +1,33 @@
+body {
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.container {
+height:100vh;
+justify-content: center;
+}
+
+.container-left {
+  justify-content: center;
+  width: 70%;
+  height:100vh;
+  position:absolute;
+  left:0;
+}
+
+.hover-image {
+  justify-content: center;
+  width: auto;
+  height: 100%;
+}
+
+.container-right {
+  justify-content: center;
+  text-align: center;
+  width:40%;
+  position: absolute;
+  right:0;
+}
